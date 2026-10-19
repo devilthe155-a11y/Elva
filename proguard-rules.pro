@@ -1,0 +1,2 @@
+-keepclassmembers class com.elva.music.data.** { *; }
+-keep class kotlinx.serialization.** { *; }
